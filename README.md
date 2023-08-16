@@ -1,1 +1,1 @@
-# SimbaStaking
+# Simba Staking
